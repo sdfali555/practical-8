@@ -195,7 +195,7 @@
             width: 650px;
             margin: 5px;
             border: 2px solid black;
-            background-image: url(/pr2.jpeg);
+            background-image: url(./pr2.jpeg);
             background-repeat: no-repeat;
             background-size: 100%;
         }
