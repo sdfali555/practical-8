@@ -100,7 +100,7 @@
 .banner
         {
             
-            background-image: url('/scene.jpg');
+            background-image: url(./images/scene.jpg);
             height: 100vh;
             width: auto;
             margin: 5px;
@@ -117,7 +117,7 @@
         }
         .circle1
         {
-            background-image: url(/icon1.png);
+            background-image: url(./images/icon1.png);
             width: 280px; 
             height: 280px;
             margin: 20px;
@@ -130,7 +130,7 @@
         }
         .circle2
         {
-            background-image: url(/icon2.png);
+            background-image: url(./images/icon2.png);
             width: 280px; 
             height: 280px;
             margin: 20px;
@@ -142,7 +142,7 @@
         }
         .circle3
         {
-            background-image: url(/icon1.png);
+            background-image: url(./images/icon1.png);
             width: 280px; 
             height: 280px;
             margin: 20px;
@@ -154,7 +154,7 @@
         }
         .circle4
         {
-            background-image: url(/icon2.png);
+            background-image: url(./images/icon2.png);
             width: 280px; 
             height: 280px;
             margin: 20px;
@@ -185,7 +185,7 @@
             width: 650px;
             margin: 5px;
             border: 2px solid black;
-            background-image: url(/pr1.jpg);
+            background-image: url(./images/pr1.jpg);
             background-repeat: no-repeat;
             background-size: 100%;
         }
@@ -195,7 +195,7 @@
             width: 650px;
             margin: 5px;
             border: 2px solid black;
-            background-image: url(./pr2.jpeg);
+            background-image: url(./images/pr2.jpeg);
             background-repeat: no-repeat;
             background-size: 100%;
         }
@@ -205,7 +205,7 @@
             width: 650px;
             margin: 5px;
             border: 2px solid black;
-            background-image: url(/pr3.jpg);
+            background-image: url(./images/pr3.jpg);
             background-repeat: no-repeat;
             background-size: 100%;
         }
